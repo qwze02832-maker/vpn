@@ -1,1 +1,6 @@
+# profile-title: 🌐 OpenFree_sub
+# profile-update-interval: 1
+# support-url: https://t.me/minematt
 
+vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.sony.com&fp=firefox&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&sid=03653bc03be10c97&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F%2C%20%D0%A1%D0%B8%D0%B1%D1%83%D1%8F%20(Firefox)
+vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.sony.com&fp=qq&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&sid=03653bc03be10c97&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F%2C%20%D0%A1%D0%B8%D0%B1%D1%83%D1%8F%20(QQ)

@@ -1,1 +1,1 @@
-# энтузvVPN
+OpenFree

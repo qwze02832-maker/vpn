@@ -1,6 +1,7 @@
-# profile-title: 🌐 OpenFree_sub
-# profile-update-interval: 1
-# support-url: https://t.me/minematt
+#profile-title: 🌐 OpenFree VPN
+#profile-description: Быстрый VPN без сложных настроек. Автообновление, серверы в [Страны].
+#support-url: https://t.me/minematt
+#profile-update-interval: 1
 
 vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@os.betust.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=OINuDFEDTdmtFR8QRxAZfQIMPA-wJxfGN1LjB3TFUHo&sid=535a3304&sni=os.betust.net#🇬🇧 Великобритания
 vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@88.216.70.41:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=check.betust.net&fp=firefox&pbk=AFmyx-wVGXMttT1jmiatBxJs6ecLGMkfsMxeNakdHVM&sid=3e8c7752&type=tcp&headerType=none#🇩🇪 Германия

@@ -1,5 +1,5 @@
 #profile-title: 🌐 OpenFree VPN
-#profile-description: Быстрый VPN без сложных настроек. Автообновление, серверы в [Страны].
+#announce: Добро пожаловать в OpenFree VPN! Автообновление, серверы в [Страны].
 #support-url: https://t.me/minematt
 #profile-update-interval: 1
 
